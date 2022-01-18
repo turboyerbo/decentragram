@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/decentragram/static/css/main.18de8aef.chunk.css",
+    "main.js": "/decentragram/static/js/main.454a99e3.chunk.js",
+    "main.js.map": "/decentragram/static/js/main.454a99e3.chunk.js.map",
+    "runtime-main.js": "/decentragram/static/js/runtime-main.24130527.js",
+    "runtime-main.js.map": "/decentragram/static/js/runtime-main.24130527.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/decentragram/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.1b347232.chunk.js": "/decentragram/static/js/2.1b347232.chunk.js",
+    "static/js/2.1b347232.chunk.js.map": "/decentragram/static/js/2.1b347232.chunk.js.map",
+    "index.html": "/decentragram/index.html",
+    "precache-manifest.d25a49118b4b95ee5204db73c4af23ed.js": "/decentragram/precache-manifest.d25a49118b4b95ee5204db73c4af23ed.js",
+    "service-worker.js": "/decentragram/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/decentragram/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.18de8aef.chunk.css.map": "/decentragram/static/css/main.18de8aef.chunk.css.map",
+    "static/js/2.1b347232.chunk.js.LICENSE.txt": "/decentragram/static/js/2.1b347232.chunk.js.LICENSE.txt",
+    "static/media/photo.png": "/decentragram/static/media/photo.d6cbd8e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24130527.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.1b347232.chunk.js",
+    "static/css/main.18de8aef.chunk.css",
+    "static/js/main.454a99e3.chunk.js"
+  ]
+}
